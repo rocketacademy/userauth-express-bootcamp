@@ -1,0 +1,32 @@
+{
+  "name": "userauth-express-bootcamp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rocketacademy/userauth-express-bootcamp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rocketacademy/userauth-express-bootcamp/issues"
+  },
+  "homepage": "https://github.com/rocketacademy/userauth-express-bootcamp#readme",
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.24.1",
+    "nodemon": "^2.0.12"
+  },
+  "type": "module",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "pg": "^8.7.1"
+  }
+}
